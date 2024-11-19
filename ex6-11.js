@@ -1,5 +1,5 @@
 function imgchange3(){
-  document.getElementById('logo').src='./image/josaikyara.jpg';
+  document.getElementById('logo').src='./image/jousaikyara.jpg';
 }
 function imgchange4(){
   document.getElementById('logo').src='./image/josai.jpg';
